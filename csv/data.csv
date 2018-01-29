@@ -1,0 +1,53 @@
+﻿id,abbr,state,depressed,stamps
+1,AL,Alabama,21.3,291541
+2,AK,Alaska,15.6,25706
+4,AZ,Arizona,18.7,319186
+5,AR,Arkansas,21.5,162566
+6,CA,California,13.3,1215985
+8,CO,Colorado,17,180821
+9,CT,Connecticut,18.3,173126
+10,DE,Delaware,18.3,45168
+11,DC,District of Columbia,18.1,39035
+12,FL,Florida,16.2,1085932
+13,GA,Georgia,18.3,561503
+15,HI,Hawaii,10.7,52767
+16,ID,Idaho,19.5,69813
+17,IL,Illinois,16.7,652676
+18,IN,Indiana,20.7,319564
+19,IA,Iowa,18.7,148202
+20,KS,Kansas,18.6,105827
+21,KY,Kentucky,23.9,299485
+22,LA,Louisiana,18.7,269670
+23,ME,Maine,23.7,92714
+24,MD,Maryland,15.9,250157
+25,MA,Massachusetts,21.7,330851
+26,MI,Michigan,20.5,619562
+27,MN,Minnesota,18.2,196307
+28,MS,Mississippi,19.9,198057
+29,MO,Missouri,21.7,300928
+30,MT,Montana,20.4,45809
+31,NE,Nebraska,17.7,69443
+32,NV,Nevada,15.6,125987
+33,NH,New Hampshire,21,41237
+34,NJ,New Jersey,13.4,294957
+35,NM,New Mexico,21.1,118280
+36,NY,New York,15.9,1135978
+37,NC,North Carolina,19,545796
+38,ND,North Dakota,17.3,25033
+39,OH,Ohio,20.9,686590
+40,OK,Oklahoma,21.8,201345
+41,OR,Oregon,24,290484
+42,PA,Pennsylvania,19.7,644930
+44,RI,Rhode Island,20.6,71530
+45,SC,South Carolina,19.9,261770
+46,SD,South Dakota,16.6,36621
+47,TN,Tennessee,21.4,441196
+48,TX,Texas,14.6,1219570
+49,UT,Utah,20.7,74801
+50,VT,Vermont,21.8,36791
+51,VA,Virginia,17.4,304111
+53,WA,Washington,21.6,377963
+54,WV,West Virginia,23.6,120486
+55,WI,Wisconsin,17,302988
+56,WY,Wyoming,19,15496
+72,GU,Puerto Rico,18.5,477030
