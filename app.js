@@ -65,4 +65,28 @@ d3.csv('csv/data.csv', function (data) {
       .text(function (d) { return d.variable +
                            '\nReturn: ' + formatPercent(d.aror) +
                            '\nStd. Dev.: ' + formatPercent(d.asd) })
-  
+  // X-axis
+  svg.append('g')
+      .attr('class','axis')
+      .attr('transform', 'translate(0,' + h + ')')
+      .call(xAxis)
+    .append('text') // X-axis Label
+      .attr('class','label')
+      .attr('y',-10)
+      .attr('x',w)
+      .attr('dy','.71em')
+      .style('text-anchor','end')
+      .text('Households on Food Stamps')
+  // Y-axis
+  svg.append('g')
+      .attr('class', 'axis')
+      .call(yAxis)
+    .append('text') // y-axis Label
+      .attr('class','label')
+      .attr('transform','rotate(-90)')
+      .attr('x',0)
+      .attr('y',5)
+      .attr('dy','.71em')
+      .style('text-anchor','end')
+      .text('Percent Who Claimed Depressed')
+})
