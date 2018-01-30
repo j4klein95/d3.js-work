@@ -62,9 +62,9 @@ d3.csv('csv/data.csv', function (data) {
           .attr('stroke-width',1)
       })
     .append('title') // Tooltip
-      .text(function (d) { return d.variable +
-                           '\nReturn: ' + formatPercent(d.aror) +
-                           '\nStd. Dev.: ' + formatPercent(d.asd) })
+      .text(function (d) { return d.state +
+                           '\nDepressed Houshold (estimated) ' + d.depressed +
+                           '\nPercent on Food Stamps' + formatPercent(d.stamps) })
   // X-axis
   svg.append('g')
       .attr('class','axis')
